@@ -1,0 +1,22 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "node-server-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkh/node-server-api.git"
+  },
+  "author": "xkh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkh/node-server-api/issues"
+  },
+  "homepage": "https://github.com/xkh/node-server-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
